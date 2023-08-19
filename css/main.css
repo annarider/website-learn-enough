@@ -3,4 +3,37 @@
 }
 .nav-spacing {
   margin: 0 0 0 10px;
+  text-decoration: none; 
+  color: blue;
+}
+.header-text {
+  text-align: center; 
+  margin: 0 0 80px;
+}
+.data-padding {
+  padding: 10px;
+}
+.inline-image {
+  display: block; 
+  margin: 0 auto; /* centers image */
+}
+.bookcover-image {
+  display: block; 
+  margin: 0 40px;
+}
+.begin-blockquote {
+  font-style: normal; 
+  font-size: 24px; 
+  font-weight: bold;
+  color: #ccc;"
+}
+.text-body {
+  width: 500px; 
+  margin: 20px auto; 
+  padding: 30px; 
+  background-color: #fafafa;
+}
+.blockquote-emphasis {
+  font-style: italic; 
+  font-size: 20px;
 }
